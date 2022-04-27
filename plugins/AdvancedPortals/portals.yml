@@ -16,27 +16,27 @@
 #        X:
 #        Y:
 
-asthonia:
-  world: world_the_end
-  triggerblock: AIR
-  bungee: asthonia
-  pos1:
-    X: 5
-    Y: 66
-    Z: -8
-  pos2:
-    X: 2
-    Y: 62
-    Z: -8
-khavalon:
-  world: world_the_end
+khavalonportal:
+  world: world
   triggerblock: AIR
   bungee: khavalon
   pos1:
-    X: -3
-    Y: 66
-    Z: -8
+    X: -13
+    Y: 79
+    Z: -31
   pos2:
-    X: -6
-    Y: 62
-    Z: -8
+    X: -19
+    Y: 73
+    Z: -34
+asthoniaportal:
+  world: world
+  triggerblock: AIR
+  bungee: asthonia
+  pos1:
+    X: 13
+    Y: 79
+    Z: -31
+  pos2:
+    X: 7
+    Y: 73
+    Z: -34

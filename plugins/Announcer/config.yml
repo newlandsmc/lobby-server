@@ -1,0 +1,57 @@
+# The amount of time used for the interval
+interval: 5
+# The unit of time used for the interval
+#  Can be SECONDS, MINUTES, or HOURS
+interval-time-unit: 'MINUTES'
+random-message-order: true
+gradient:
+  color-1: 'white'
+  color-2: 'gray'
+  color-3: 'white'
+  speed: 0.05
+returning-player:
+  title-settings:
+    enabled: true
+    duration-seconds: 4
+    fade-in: 1000
+    fade-out: 1000
+    title: 'Welcome back!'
+    subtitle: '<animate>Home of Khavalon & Asthonia</animate>'
+    bedrock:
+      enable: true
+      duration-seconds: 4
+      fade-in: 1000
+      fade-out: 1000
+      title: 'Welcome back!'
+      subtitle: 'Home of Khavalon & Asthonia'
+  join-sounds:
+    enabled: true
+    name: 'music.menu'
+    pitch: 1
+    source: master
+    volume: 0.8
+new-player:
+  title-settings:
+    enabled: true
+    duration-seconds: 4
+    fade-in: 1000
+    fade-out: 1000
+    title: 'Welcome!'
+    subtitle: '<animate>Home of Khavalon & Asthonia</animate>'
+    bedrock:
+      enable: true
+      duration-seconds: 4
+      fade-in: 1000
+      fade-out: 1000
+      title: 'Welcome!'
+      subtitle: 'Home of Khavalon & Asthonia'
+  join-sounds:
+    enabled: true
+    name: 'music.menu'
+    pitch: 1
+    source: master
+    volume: 0.8
+messages:
+  0:
+    - '<gray>Select a server to start playing!'
+    - '<gray>Walk through any portal...'

@@ -1,0 +1,19 @@
+version: 2
+world:
+  spawn:
+    x: -1.1435426222140672
+    y: 63.0
+    z: 20.598696677586137
+    pitch: -13.350602
+    yaw: 179.69348
+    world: world_the_end
+  mode: touch
+world_the_end:
+  spawn:
+    x: -1.1435426222140672
+    y: 63.0
+    z: 20.598696677586137
+    pitch: -13.350602
+    yaw: 179.69348
+    world: world_the_end
+  mode: touch

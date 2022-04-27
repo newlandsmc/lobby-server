@@ -1,0 +1,60 @@
+animations:
+#  tablist:
+#    # Text changing interval in milliseconds (ticks).
+#    interval: 60
+#
+#    # Display the text randomly?
+#    random: true
+#
+#    # The list of texts that will appear
+#    texts:
+#    - "&b&lTabList"
+#    - "&6&lTabList"
+#    - "&4&lTabList"
+#    - "&9&lTabList"
+#    - "&a&lTabList"
+#    - "&e&lTabList"
+#    - "&5&lTabList"
+#    - "&b&lTabList"
+#    - "&6&lTabList"
+#    - "&4&lTabList"
+#    - "&9&lTabList"
+#    - "&a&lTabList"
+#    - "&e&lTabList"
+#    - "&5&lTabList"
+#    - "&b&lTabList"
+#    - "&6&lTabList"
+#    - "&4&lTabList"
+#    - "&9&lTabList"
+#    - "&a&lTabList"
+#    - "&e&lTabList"
+#    - "&5&lTabList"
+#    - "&b&lTabList"
+
+  title:
+    interval: 120
+    texts:
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &f&lLobby "
+    - " &7&lL&f&lobby "
+    - " &7&lLo&f&lbby "
+    - " &7&lLob&f&lby "
+    - " &f&lL&7&lobb&f&ly "
+    - " &f&lLo&7&lbby "
+    - " &f&lLob&7&lby "
+    - " &f&lLobb&7&ly "
