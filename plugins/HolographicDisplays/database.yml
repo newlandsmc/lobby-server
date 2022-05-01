@@ -5,7 +5,7 @@
 khavalon:
   lines:
   - '&6&lKhavalon'
-  - Hard difficulty RPG survival
+  - Towny PVP Survival (PVP)
   - PVP &cEnabled&r!
   position:
     world: world
@@ -15,7 +15,7 @@ khavalon:
 asthonia:
   lines:
   - '&d&lAsthonia'
-  - Hard difficulty RPG survival
+  - Casual RPG Survival (PVE)
   - PVP &aDisabled&r!
   position:
     world: world
@@ -25,7 +25,7 @@ asthonia:
 khavalon2:
   lines:
   - '&6&lKhavalon'
-  - Hard difficulty RPG survival
+  - Towny PVP Survival (PVP)
   - PVP &cEnabled&r!
   position:
     world: world
@@ -35,7 +35,7 @@ khavalon2:
 asthonia2:
   lines:
   - '&d&lAsthonia'
-  - Hard difficulty RPG survival
+  - Casual RPG Survival (PVE)
   - PVP &aDisabled&r!
   position:
     world: world
