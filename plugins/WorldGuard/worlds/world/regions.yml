@@ -12,8 +12,16 @@
 regions:
     __global__:
         members: {}
-        flags: {deny-message: '', feed-max-hunger: 20, build: deny, fall-damage: deny,
-            invincible: allow, feed-amount: 1, feed-delay: 10, natural-hunger-drain: deny}
+        flags:
+            give-effects: [JUMP 4 false, SPEED 1 false]
+            feed-max-hunger: 20
+            deny-message: ''
+            build: deny
+            fall-damage: deny
+            invincible: allow
+            feed-delay: 10
+            feed-amount: 1
+            natural-hunger-drain: deny
         owners: {}
         type: global
         priority: 0
