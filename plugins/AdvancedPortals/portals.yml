@@ -21,22 +21,22 @@ khavalonportal:
   triggerblock: AIR
   bungee: khavalon
   pos1:
-    X: -13
-    Y: 79
-    Z: -31
+    X: -6
+    Y: 70
+    Z: -1
   pos2:
-    X: -19
-    Y: 73
-    Z: -34
+    X: -10
+    Y: 65
+    Z: -2
 asthoniaportal:
   world: world
   triggerblock: AIR
   bungee: asthonia
   pos1:
-    X: 13
-    Y: 79
-    Z: -31
+    X: 10
+    Y: 70
+    Z: -1
   pos2:
-    X: 7
-    Y: 73
-    Z: -34
+    X: 6
+    Y: 65
+    Z: -2

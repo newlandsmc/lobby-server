@@ -25,7 +25,7 @@ returning-player:
       title: 'Welcome back!'
       subtitle: 'Home of Khavalon & Asthonia'
   join-sounds:
-    enabled: true
+    enabled: false
     name: 'music.menu'
     pitch: 1
     source: master
@@ -46,7 +46,7 @@ new-player:
       title: 'Welcome!'
       subtitle: 'Home of Khavalon & Asthonia'
   join-sounds:
-    enabled: true
+    enabled: false
     name: 'music.menu'
     pitch: 1
     source: master

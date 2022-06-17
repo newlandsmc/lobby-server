@@ -13,16 +13,16 @@ bungee:
   refresh-seconds: 3
   use-RedisBungee: false
   pinger:
-    enable: false
+    enable: true
     timeout: 500
-    offline-motd: '&cOffline, couldn''t get the MOTD'
+    offline-motd: '&cOffline.'
     status:
       online: '&aOnline'
       offline: '&cOffline'
     motd-remove-leading-trailing-spaces: true
     servers:
-    - 'hub: 127.0.0.1:25565'
-    - 'games: 127.0.0.1:25566'
+    - 'asthonia: 127.0.0.1:25567'
+    - 'khavalon: 127.0.0.1:25566'
 time:
   format: H:mm
   zone: GMT+1
