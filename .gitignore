@@ -27,6 +27,9 @@
 /plugins/NoBedRespawnHandler/data/
 /plugins/Vulcan/violations.txt
 /plugins/OldExpeditions/data/
+/plugins/Parkour/players/
+/plugins/Parkour/sessions/
+/plugins/Parkour/sqlite-db/
 
 # Ignore bloat in plugins
 /plugins/LuckPerms/libs/
@@ -39,6 +42,8 @@
 /plugins/Votifier/rsa/
 /plugins/squaremap/web/tiles-bak/
 /plugins/Vulcan/stats.yml
+/plugins/Parkour/backups/
+/plugins/Parkour/Parkour.log
 
 # Ignore worlds
 !worlds/
