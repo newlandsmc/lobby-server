@@ -16,14 +16,14 @@ returning-player:
     fade-in: 1000
     fade-out: 1000
     title: 'Welcome back!'
-    subtitle: '<animate>Home of Khavalon & Asthonia</animate>'
+    subtitle: '<animate>SemiVanilla Studios</animate>'
     bedrock:
       enable: true
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
       title: 'Welcome back!'
-      subtitle: 'Home of Khavalon & Asthonia'
+      subtitle: 'SemiVanilla Studios'
   join-sounds:
     enabled: false
     name: 'music.menu'
@@ -37,14 +37,14 @@ new-player:
     fade-in: 1000
     fade-out: 1000
     title: 'Welcome!'
-    subtitle: '<animate>Home of Khavalon & Asthonia</animate>'
+    subtitle: '<animate>SemiVanilla Studios</animate>'
     bedrock:
       enable: true
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
       title: 'Welcome!'
-      subtitle: 'Home of Khavalon & Asthonia'
+      subtitle: 'SemiVanilla Studios'
   join-sounds:
     enabled: false
     name: 'music.menu'
