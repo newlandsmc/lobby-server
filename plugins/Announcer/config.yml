@@ -16,14 +16,14 @@ returning-player:
     fade-in: 1000
     fade-out: 1000
     title: 'Welcome back!'
-    subtitle: '<animate>SemiVanilla Studios</animate>'
+    subtitle: '<gray>SemiVanilla Studios</gray>'
     bedrock:
       enable: true
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
       title: 'Welcome back!'
-      subtitle: 'SemiVanilla Studios'
+      subtitle: '<gray>SemiVanilla Studios</gray>'
   join-sounds:
     enabled: false
     name: 'music.menu'
@@ -37,14 +37,14 @@ new-player:
     fade-in: 1000
     fade-out: 1000
     title: 'Welcome!'
-    subtitle: '<animate>SemiVanilla Studios</animate>'
+    subtitle: '<gray>SemiVanilla Studios</gray>'
     bedrock:
       enable: true
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
       title: 'Welcome!'
-      subtitle: 'SemiVanilla Studios'
+      subtitle: '<gray>SemiVanilla Studios</gray>'
   join-sounds:
     enabled: false
     name: 'music.menu'

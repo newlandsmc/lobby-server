@@ -65,8 +65,8 @@ book:
   help:
     pages: 1
     0:
-      - '      <gradient:gold:#d37525><bold>SemiVanilla</bold></gradient>'
-      - '         <gradient:#cc6a2c:#b44b42><bold>Studios</bold></gradient>'
+      - '      <gradient:#4cdaed:#0aa4cf><bold>SemiVanilla</bold></gradient>'
+      - '         <gradient:#4cdaed:#0aa4cf><bold>Studios</bold></gradient>'
       - ''
       - 'Home of'
       - 'Khavalon & Asthonia'
@@ -77,8 +77,8 @@ book:
       - 'one of our servers!'
       - ''
       - ''
-      - '  <click:open_url:https://discord.gg/3WzZ3x6wGp><gradient:gold:#b24747><bold>Need more help?</bold></gradient></click>'
-      - ' <click:open_url:https://discord.gg/3WzZ3x6wGp><gradient:gold:#b24747><bold>Join our Discord.</bold></gradient></click>'
+      - '  <click:open_url:https://discord.gg/3WzZ3x6wGp><gradient:#4cdaed:#0aa4cf><bold>Need more help?</bold></gradient></click>'
+      - ' <click:open_url:https://discord.gg/3WzZ3x6wGp><gradient:#4cdaed:#0aa4cf><bold>Join our Discord.</bold></gradient></click>'
   store:
     pages: 1
     0:
