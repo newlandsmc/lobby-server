@@ -12,17 +12,19 @@
 
 settings:
   debug: false
-  bungeecord: true
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
+  moved-wrongly-threshold: 1000
+  moved-too-quickly-multiplier: 1000
   save-user-cache-on-stop-only: false
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
+  bungeecord: true
+  user-cache-size: 1000
+  player-shuffle: 600
   timeout-time: 60
-  restart-on-crash: true
+  restart-on-crash: false
   restart-script: ./start.sh
+  sample-count: 12
   netty-threads: 4
+  log-villager-deaths: true
+  log-named-deaths: true
   attribute:
     maxHealth:
       max: 2048.0
@@ -30,42 +32,29 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  log-villager-deaths: true
-  log-named-deaths: true
-messages:
-  whitelist: 'Lobby is under maintenance! Discord: https://semivanilla.com/discord'
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: Server full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Lobby rebooting, please check back in a few minutes!
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
-commands:
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  log: true
-  tab-complete: 0
-  send-namespaced: true
-players:
-  disable-saving: false
 world-settings:
   default:
     hopper-can-load-chunks: false
     seed-nether: 30084232
+    seed-stronghold: default
     below-zero-generation-in-existing-chunks: true
     verbose: false
+    nerf-spawner-mobs: false
+    thunder-chance: 100000
     merge-radius:
-      exp: 3.0
-      item: 2.5
+      item: 1.5
+      exp: 2.0
+    item-despawn-rate: 6000
+    wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
+    view-distance: default
+    simulation-distance: default
+    enable-zombie-pigmen-portal-spawns: true
+    end-portal-sound-radius: 0
+    arrow-despawn-rate: 1200
+    trident-despawn-rate: 1200
+    mob-spawn-range: 8
+    zombie-aggressive-towards-villager: true
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -88,6 +77,7 @@ world-settings:
       cavevines-modifier: 100
       glowberry-modifier: 100
     entity-activation-range:
+      ignore-spectators: false
       animals: 32
       monsters: 32
       raiders: 48
@@ -112,9 +102,8 @@ world-settings:
       villagers-work-immunity-for: 20
       villagers-active-for-panic: true
       tick-inactive-villagers: true
-      ignore-spectators: false
     entity-tracking-range:
-      players: 48
+      players: 64
       animals: 48
       monsters: 48
       misc: 32
@@ -123,24 +112,23 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-desert: 14357617
-    seed-igloo: 14357618
-    seed-jungle: 14357619
-    seed-swamp: 14357620
-    seed-monument: 10387313
-    seed-shipwreck: 165745295
-    seed-ocean: 14357621
-    seed-outpost: 165745296
-    seed-endcity: 10387313
-    seed-slime: 987234911
-    seed-bastion: 30084232
-    seed-fortress: 30084232
-    seed-mansion: 10387319
-    seed-fossil: 14357921
-    seed-portal: 34222645
-    seed-stronghold: default
+    seed-village: 10387111
+    seed-desert: 14357111
+    seed-igloo: 14357111
+    seed-jungle: 14357111
+    seed-swamp: 14357111
+    seed-monument: 10387111
+    seed-shipwreck: 165745111
+    seed-ocean: 14357111
+    seed-outpost: 165745111
+    seed-endcity: 10387111
+    seed-slime: 987234111
+    seed-bastion: 30084111
+    seed-fortress: 30084111
+    seed-mansion: 10387111
+    seed-fossil: 14357111
+    seed-portal: 34222111
+    max-tnt-per-tick: 100
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -149,25 +137,37 @@ world-settings:
       swim-multiplier: 0.01
       sprint-multiplier: 0.1
       other-multiplier: 0.0
-    max-tnt-per-tick: 100
     max-tick-time:
-      tile: 50
-      entity: 50
-    enable-zombie-pigmen-portal-spawns: true
-    item-despawn-rate: 6000
-    view-distance: default
-    simulation-distance: default
-    thunder-chance: 100000
-    wither-spawn-sound-radius: 0
-    arrow-despawn-rate: 1200
-    trident-despawn-rate: 1200
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
-    mob-spawn-range: 8
-    end-portal-sound-radius: 0
+      tile: 10000
+      entity: 10000
+    dragon-death-sound-radius: 0
   worldeditregentempworld:
     verbose: false
+commands:
+  silent-commandblock-console: false
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  tab-complete: 3
+  send-namespaced: false
+messages:
+  whitelist: 'Lobby is under maintenance! Discord: https://semivanilla.com/discord'
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: Server full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: lobby rebooting, please check back in a few minutes!
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
+players:
+  disable-saving: false
 config-version: 12
 stats:
   disable-saving: false

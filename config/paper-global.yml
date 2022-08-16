@@ -14,18 +14,18 @@
 
 _version: 28
 async-chunks:
-  threads: -1
+  threads: 6
 chunk-loading:
   autoconfig-send-distance: true
   enable-frustum-priority: false
   global-max-chunk-load-rate: -1.0
   global-max-chunk-send-rate: -1.0
-  global-max-concurrent-loads: 500.0
-  max-concurrent-sends: 2
+  global-max-concurrent-loads: -1.0
+  max-concurrent-sends: 12
   min-load-radius: 2
   player-max-chunk-load-rate: -1.0
   player-max-concurrent-loads: 20.0
-  target-player-chunk-send-rate: 100.0
+  target-player-chunk-send-rate: -1.0
 collisions:
   enable-player-collisions: true
   send-full-pos-for-hard-colliding-entities: true
@@ -55,11 +55,10 @@ logging:
 messages:
   kick:
     authentication-servers-down: <lang:multiplayer.disconnect.authservers_down>
-    connection-throttle: Connection throttled! Please wait before reconnecting.
+    connection-throttle: You're connecting too fast! Please wait before reconnecting.
     flying-player: <lang:multiplayer.disconnect.flying>
     flying-vehicle: <lang:multiplayer.disconnect.flying>
-  no-permission: <red>I'm sorry, but you do not have permission to perform this command.
-    Please contact the server administrators if you believe that this is in error.
+  no-permission: Unknown command. Type "/help" for help.
   use-display-name-in-quit-message: false
 misc:
   fix-entity-position-desync: true
@@ -102,7 +101,7 @@ spam-limiter:
   tab-spam-increment: 1
   tab-spam-limit: 500
 timings:
-  enabled: true
+  enabled: false
   hidden-config-entries:
   - database
   - settings.bungeecord-addresses
@@ -110,7 +109,7 @@ timings:
   - proxies.velocity.secret
   history-interval: 300
   history-length: 3600
-  server-name: Unknown Server
+  server-name: SemiVanilla MC
   server-name-privacy: false
   url: https://timings.aikar.co/
   verbose: true
@@ -118,7 +117,7 @@ unsupported-settings:
   allow-headless-pistons: false
   allow-permanent-block-break-exploits: false
   allow-piston-duplication: false
-  perform-username-validation: true
+  perform-username-validation: false
 watchdog:
   early-warning-delay: 10000
   early-warning-every: 5000

@@ -131,3 +131,47 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ BlazedL2 was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -8.561211933066609
+ - Y: 34.20336623118396
+ - Z: 1.9197315498527516
+
+Information:
+ - UUID: 83be74f2-63bd-43a6-b404-e8fb7b495841
+ - Keep Alive Ping: 0
+ - Transaction Ping: 89
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 10.5 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 106
+ - Since Riptide Ticks: 305
+ - Flying Delay: 51
+ - Since Velocity Ticks: 210
+ - Since Firework Ticks: 305
+ - Ticks Existed: 110
+ - Since Vehicle Ticks: 205
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
