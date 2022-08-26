@@ -175,3 +175,443 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ 3y__ was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -3.4795771419676385
+ - Y: 141.0
+ - Z: 14.171331917438351
+
+Information:
+ - UUID: e33724f6-6ec2-4207-9105-1f0d87f6b73c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 117
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 10.5 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 107
+ - Since Riptide Ticks: 290
+ - Flying Delay: 50
+ - Since Velocity Ticks: 210
+ - Since Firework Ticks: 290
+ - Ticks Existed: 110
+ - Since Vehicle Ticks: 190
+ - Joined: 9 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ MajorSkyCat was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 12.43155653691195
+ - Y: 65.0
+ - Z: -8.630568102820186
+
+Information:
+ - UUID: 96c69161-4438-404f-8a5e-f39f16ddebba
+ - Keep Alive Ping: 23
+ - Transaction Ping: 97
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.18.2
+ - Last Damage: 12.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 148
+ - Since Riptide Ticks: 344
+ - Flying Delay: 553
+ - Since Velocity Ticks: 250
+ - Since Firework Ticks: 344
+ - Ticks Existed: 150
+ - Since Vehicle Ticks: 244
+ - Joined: 18 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, GRASS_BLOCK, GRASS_BLOCK, SPRUCE_STAIRS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ MajorSkyCat was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 18.970509568086335
+ - Y: 88.22170099820435
+ - Z: -25.64005843706458
+
+Information:
+ - UUID: 96c69161-4438-404f-8a5e-f39f16ddebba
+ - Keep Alive Ping: 0
+ - Transaction Ping: 96
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.18.2
+ - Last Damage: 8.3 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 62
+ - Since Riptide Ticks: 257
+ - Flying Delay: 50
+ - Since Velocity Ticks: 166
+ - Since Firework Ticks: 257
+ - Ticks Existed: 66
+ - Since Vehicle Ticks: 157
+ - Joined: 5 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ MajorSkyCat was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 3.019129205527451
+ - Y: 31.522591569710336
+ - Z: -1.7028135492614678
+
+Information:
+ - UUID: 96c69161-4438-404f-8a5e-f39f16ddebba
+ - Keep Alive Ping: 77
+ - Transaction Ping: 96
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.18.2
+ - Last Damage: 14.95 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 195
+ - Since Riptide Ticks: 392
+ - Flying Delay: 50
+ - Since Velocity Ticks: 299
+ - Since Firework Ticks: 392
+ - Ticks Existed: 199
+ - Since Vehicle Ticks: 292
+ - Joined: 102 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ EnglishWater was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -15.60983687126245
+ - Y: 61.21589434553873
+ - Z: 14.054982621835642
+
+Information:
+ - UUID: 7e976080-f5fa-4dac-bbaa-ec3009b93945
+ - Keep Alive Ping: 0
+ - Transaction Ping: 115
+ - Server TPS: 20
+ - Sensitivity: 80
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 11.75 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 131
+ - Since Riptide Ticks: 328
+ - Flying Delay: 54
+ - Since Velocity Ticks: 235
+ - Since Firework Ticks: 328
+ - Ticks Existed: 135
+ - Since Vehicle Ticks: 228
+ - Joined: 10 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ EnglishWater was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -57.834375682796995
+ - Y: 51.72090979856196
+ - Z: -8.79536206824657
+
+Information:
+ - UUID: 7e976080-f5fa-4dac-bbaa-ec3009b93945
+ - Keep Alive Ping: 62
+ - Transaction Ping: 120
+ - Server TPS: 20
+ - Sensitivity: 80
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 21.75 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 330
+ - Since Riptide Ticks: 522
+ - Flying Delay: 45
+ - Since Velocity Ticks: 435
+ - Since Firework Ticks: 522
+ - Ticks Existed: 335
+ - Since Vehicle Ticks: 422
+ - Joined: 43 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ EnglishWater was punished for Strafe (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -21.23749687207912
+ - Y: 65.1906999805212
+ - Z: 20.522626606883225
+
+Information:
+ - UUID: 7e976080-f5fa-4dac-bbaa-ec3009b93945
+ - Keep Alive Ping: 98
+ - Transaction Ping: 147
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 233.1 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 4558
+ - Since Riptide Ticks: 541
+ - Flying Delay: 0
+ - Since Velocity Ticks: 4662
+ - Since Firework Ticks: 541
+ - Ticks Existed: 4562
+ - Since Vehicle Ticks: 441
+ - Joined: 178 seconds ago
+
+All Violations:
+ - Strafe (Type B) [VL: 15] (Moving incorrectly on the ground.)
+
+Blocks Nearby: [LILY_PAD, CAMPFIRE, CAMPFIRE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_TRAPDOOR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, CAMPFIRE, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ EnglishWater was punished for Strafe (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -6.83838942428904
+ - Y: 69.662141421027
+ - Z: 51.821692904581475
+
+Information:
+ - UUID: 7e976080-f5fa-4dac-bbaa-ec3009b93945
+ - Keep Alive Ping: 0
+ - Transaction Ping: 101
+ - Server TPS: 20
+ - Sensitivity: -30
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 20.85 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 309
+ - Since Riptide Ticks: 335
+ - Flying Delay: 1
+ - Since Velocity Ticks: 417
+ - Since Firework Ticks: 335
+ - Ticks Existed: 317
+ - Since Vehicle Ticks: 235
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Strafe (Type B) [VL: 15] (Moving incorrectly on the ground.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, FARMLAND, AIR, ANDESITE_WALL, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, FARMLAND, FARMLAND, ANDESITE_WALL, WHEAT, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, FARMLAND, FARMLAND, ANDESITE_WALL, WHEAT, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ EnglishWater was punished for Strafe (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -51.404910461129674
+ - Y: 70.5
+ - Z: 16.808964805137123
+
+Information:
+ - UUID: 7e976080-f5fa-4dac-bbaa-ec3009b93945
+ - Keep Alive Ping: 0
+ - Transaction Ping: 139
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 31.25 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 519
+ - Since Riptide Ticks: 432
+ - Flying Delay: 1
+ - Since Velocity Ticks: 625
+ - Since Firework Ticks: 432
+ - Ticks Existed: 525
+ - Since Vehicle Ticks: 332
+ - Joined: 14 seconds ago
+
+All Violations:
+ - Strafe (Type B) [VL: 15] (Moving incorrectly on the ground.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS_BLOCK, DIRT_PATH, DIRT_PATH, OAK_PRESSURE_PLATE, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, OAK_PRESSURE_PLATE, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ CyanBoi9999 was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -5.371059618071667
+ - Y: 67.11962462335384
+ - Z: 5.108485757418806
+
+Information:
+ - UUID: 2bc49245-dab1-4cba-bbcf-338844da89e2
+ - Keep Alive Ping: 11
+ - Transaction Ping: 56
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 9.45 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 87
+ - Since Riptide Ticks: 278
+ - Flying Delay: 44
+ - Since Velocity Ticks: 189
+ - Since Firework Ticks: 278
+ - Ticks Existed: 89
+ - Since Vehicle Ticks: 178
+ - Joined: 18 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

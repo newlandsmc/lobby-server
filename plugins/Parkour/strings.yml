@@ -143,8 +143,8 @@ Other:
 Lobby: 
    Created: '&b%VALUE% &flobby created.'
    RequiredLevelSet: You have set the required ParkourLevel to &b%VALUE%&f.
-   Joined: You have joined the lobby
-   JoinedOther: You have joined the &b%VALUE% &flobby
+   Joined: ''
+   JoinedOther: ''
 Scoreboard: 
    MainHeading: '&b&l== Parkour =='
    TitleFormat: '&b%VALUE%'

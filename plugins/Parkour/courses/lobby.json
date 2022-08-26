@@ -1,1 +1,101 @@
-{}
+{
+   "Ready": true,
+   "Checkpoint": {
+      "0": {
+         "CheckpointX": -35,
+         "CheckpointY": 63,
+         "CheckpointZ": 10,
+         "Location": {
+            "world": "world",
+            "x": -34.5,
+            "y": 64.5,
+            "z": 10.5,
+            "pitch": -8.100105,
+            "yaw": 173.55974
+         }
+      },
+      "1": {
+         "CheckpointX": -64,
+         "CheckpointY": 78,
+         "CheckpointZ": 25,
+         "Location": {
+            "world": "world",
+            "x": -63.5,
+            "y": 79.5,
+            "z": 25.5,
+            "pitch": -6.899476,
+            "yaw": -44.691704
+         }
+      },
+      "2": {
+         "CheckpointX": -26,
+         "CheckpointY": 86,
+         "CheckpointZ": 61,
+         "Location": {
+            "world": "world",
+            "x": -25.5,
+            "y": 87.5,
+            "z": 61.5,
+            "pitch": -9.450327,
+            "yaw": -101.69202
+         }
+      },
+      "3": {
+         "CheckpointX": 7,
+         "CheckpointY": 90,
+         "CheckpointZ": 56,
+         "Location": {
+            "world": "world",
+            "x": 7.5,
+            "y": 91.5,
+            "z": 56.5,
+            "pitch": -5.400235,
+            "yaw": -64.041626
+         }
+      },
+      "4": {
+         "CheckpointX": 72,
+         "CheckpointY": 92,
+         "CheckpointZ": 55,
+         "Location": {
+            "world": "world",
+            "x": 72.5,
+            "y": 93.5,
+            "z": 55.5,
+            "pitch": 26.399609,
+            "yaw": 152.55946
+         }
+      },
+      "5": {
+         "CheckpointX": 50,
+         "CheckpointY": 72,
+         "CheckpointZ": 6,
+         "Location": {
+            "world": "world",
+            "x": 50.5,
+            "y": 73.5,
+            "z": 6.5,
+            "pitch": -4.2002716,
+            "yaw": -165.14209
+         }
+      },
+      "6": {
+         "CheckpointX": 23,
+         "CheckpointY": 83,
+         "CheckpointZ": -23,
+         "Location": {
+            "world": "world",
+            "x": 23.5,
+            "y": 84.5,
+            "z": -22.5,
+            "pitch": 14.099976,
+            "yaw": 36.311615
+         }
+      }
+   },
+   "Views": 358,
+   "Checkpoints": 6,
+   "Completed": 21,
+   "Creator": "sudokou",
+   "Name": "lobby"
+}

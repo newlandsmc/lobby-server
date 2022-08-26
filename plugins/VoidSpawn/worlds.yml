@@ -8,6 +8,8 @@ world:
     yaw: 179.69348
     world: world_the_end
   mode: touch
+  options:
+    void_height: '32'
 world_the_end:
   spawn:
     x: -1.1435426222140672
