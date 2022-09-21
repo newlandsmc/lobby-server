@@ -30,6 +30,7 @@
 /plugins/Parkour/players/
 /plugins/Parkour/sessions/
 /plugins/Parkour/sqlite-db/
+/plugins/VentureChat/PlayerData/
 
 # Ignore bloat in plugins
 /plugins/LuckPerms/libs/

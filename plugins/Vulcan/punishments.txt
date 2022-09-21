@@ -615,3 +615,47 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ PaxHax was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 47.92835099527252
+ - Y: 94.20000004768372
+ - Z: 76.44052873376161
+
+Information:
+ - UUID: 0dbf3805-5cef-4c9e-a830-dc8340053157
+ - Keep Alive Ping: 30
+ - Transaction Ping: 131
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 28.3 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 463
+ - Since Riptide Ticks: 626
+ - Flying Delay: 39
+ - Since Velocity Ticks: 566
+ - Since Firework Ticks: 626
+ - Ticks Existed: 466
+ - Since Vehicle Ticks: 526
+ - Joined: 27 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

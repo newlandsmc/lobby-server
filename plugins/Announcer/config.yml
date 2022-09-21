@@ -51,7 +51,4 @@ new-player:
     pitch: 1
     source: master
     volume: 0.8
-messages:
-  0:
-    - '<gray>Select a server to start playing!'
-    - '<gray>Walk through any portal...'
+messages: []

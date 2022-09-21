@@ -20,10 +20,9 @@ regions:
         priority: 0
     __global__:
         members: {}
-        flags: {deny-message: '', feed-max-hunger: 20, fall-damage: deny, invincible: allow,
-            feed-amount: 1, feed-delay: 10, natural-hunger-drain: deny}
+        flags: {deny-message: '', feed-max-hunger: 20, invincible: allow, fall-damage: deny,
+            feed-delay: 10, feed-amount: 1, natural-hunger-drain: deny}
         owners:
-            unique-ids: [cf816e27-a4d8-41c9-9a9a-e24df2db0b98, 244a663c-bc0a-465e-8697-0c00ca7c5906,
-                770b6f8f-2e13-48b5-a21c-8660ef5446d3]
+            unique-ids: [cf816e27-a4d8-41c9-9a9a-e24df2db0b98, 770b6f8f-2e13-48b5-a21c-8660ef5446d3]
         type: global
         priority: 0

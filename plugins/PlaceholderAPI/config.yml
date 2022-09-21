@@ -35,3 +35,9 @@ expansions:
     offline: '&cOffline'
     check_interval: 30
     online: '&aOnline'
+  server:
+    tps_color:
+      high: '&a'
+      low: '&c'
+      medium: '&e'
+    server_name: Lobby

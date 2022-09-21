@@ -123,7 +123,7 @@ book:
       - '<click:open_url:%store-link%>server. Thank you!</click>'
       - ''
       - ''
-      - '<click:open_url:%store-link%>    <gradient:#4cdaed:#0aa4cf><bold>SemiVanilla MC</bold></gradient></click>'
+      - '<click:open_url:%store-link%>   <gradient:#4cdaed:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
   map:
     pages: 1
     0:
