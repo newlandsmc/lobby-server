@@ -1,0 +1,9 @@
+unstuck:
+  enabled: true
+  message: ""
+crates:
+  enabled: true
+  message: "<red>This command must be ran on Khavalon or Asthonia!"
+spoils:
+  enabled: true
+  message: "<red>This command must be ran on Khavalon or Asthonia!"

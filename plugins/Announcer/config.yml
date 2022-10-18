@@ -12,17 +12,17 @@ gradient:
 returning-player:
   title-settings:
     enabled: true
-    duration-seconds: 4
+    duration-seconds: 3
     fade-in: 1000
     fade-out: 1000
-    title: 'Welcome back!'
+    title: 'Welcome'
     subtitle: '<gray>SemiVanilla MC</gray>'
     bedrock:
       enable: true
-      duration-seconds: 4
+      duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: 'Welcome back!'
+      title: 'Welcome'
       subtitle: '<gray>SemiVanilla MC</gray>'
   join-sounds:
     enabled: false
@@ -33,17 +33,17 @@ returning-player:
 new-player:
   title-settings:
     enabled: true
-    duration-seconds: 4
+    duration-seconds: 3
     fade-in: 1000
     fade-out: 1000
-    title: 'Welcome!'
+    title: 'Welcome'
     subtitle: '<gray>SemiVanilla MC</gray>'
     bedrock:
       enable: true
-      duration-seconds: 4
+      duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: 'Welcome!'
+      title: 'Welcome'
       subtitle: '<gray>SemiVanilla MC</gray>'
   join-sounds:
     enabled: false

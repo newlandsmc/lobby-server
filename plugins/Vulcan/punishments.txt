@@ -659,3 +659,178 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ _ratio__ was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 24.720283781089567
+ - Y: 69.93184049034932
+ - Z: -5.5263092904435265
+
+Information:
+ - UUID: f4491b63-1b4e-4975-9b6d-a5efb4d9d112
+ - Keep Alive Ping: 62
+ - Transaction Ping: 148
+ - Server TPS: 20
+ - Sensitivity: 39
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 38.2 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 659
+ - Since Riptide Ticks: 761
+ - Flying Delay: 52
+ - Since Velocity Ticks: 764
+ - Since Firework Ticks: 761
+ - Ticks Existed: 664
+ - Since Vehicle Ticks: 661
+ - Joined: 42 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ThatOneGamer2022 was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -1.058205445292357
+ - Y: 63.0
+ - Z: 15.735553936314982
+
+Information:
+ - UUID: f989eb73-36bb-45f4-a922-5a8be91bf089
+ - Keep Alive Ping: 23
+ - Transaction Ping: 112
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 12.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 134
+ - Since Riptide Ticks: 341
+ - Flying Delay: 36
+ - Since Velocity Ticks: 250
+ - Since Firework Ticks: 341
+ - Ticks Existed: 150
+ - Since Vehicle Ticks: 241
+ - Joined: 19 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, DIRT_PATH, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Dd1s was punished for Bad Packets (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 8.5
+ - Y: 64.92159999847412
+ - Z: 8.5
+
+Information:
+ - UUID: 3f4ddb09-6818-40e3-9d09-92314e9fc2cb
+ - Keep Alive Ping: 0
+ - Transaction Ping: 0
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 5.2 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 4
+ - Since Riptide Ticks: 202
+ - Flying Delay: 0
+ - Since Velocity Ticks: 104
+ - Since Firework Ticks: 202
+ - Ticks Existed: 4
+ - Since Vehicle Ticks: 102
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type C) [VL: 1] (Impossible pitch.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, REDSTONE_LAMP, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Buildboy3000 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 6.879111941441087
+ - Y: 64.0
+ - Z: 4.257804402751242
+
+Information:
+ - UUID: a47e3a3e-e6bb-46df-b76d-ad7c500d09ca
+ - Keep Alive Ping: 0
+ - Transaction Ping: 124
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 9.35 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 85
+ - Since Riptide Ticks: 273
+ - Flying Delay: 49
+ - Since Velocity Ticks: 187
+ - Since Firework Ticks: 273
+ - Ticks Existed: 87
+ - Since Vehicle Ticks: 173
+ - Joined: 11 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [SPRUCE_LOG, OAK_SLAB, OAK_SLAB, SPRUCE_TRAPDOOR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

@@ -22,34 +22,6 @@ asthonia:
     x: 5.542659626362475
     y: 66.23259531617754
     z: 7.3884626381718155
-khavaloninfo:
-  lines:
-  - '&lAbout Khavalon'
-  - Khavalon is our &cPVP-enabled &fsurvival
-  - server. Khavalon offers all the same
-  - features as Asthonia, with RPG elements
-  - and land claiming, but adds an additional
-  - challenge for those who want it - PVP is
-  - on outside of claims.
-  position:
-    world: world
-    x: -11.334844709574424
-    y: 68.24527346322323
-    z: 3.3177675989780973
-asthoniainfo:
-  lines:
-  - '&lAbout Asthonia'
-  - Asthonia is our &aPVE-only &fsurvival server.
-  - This is a casual server inspired by classic
-  - survival servers of the past. Asthonia
-  - offers RPG skills and abilities, custom
-  - enchants, and land claiming, in a vanilla
-  - 1.19 world.
-  position:
-    world: world
-    x: 12.679948959835011
-    y: 68.24527346322323
-    z: 3.3545732179366996
 parkourlb:
   lines:
   - '&3&lParkour Leaderboard'
@@ -68,3 +40,18 @@ parkourlb:
     x: -40.474756137104485
     y: 66.49390748022948
     z: 8.170404917501328
+info:
+  lines:
+  - '&lWelcome!'
+  - '&8&m  ]&f&m-    &r'
+  - PVP or PVE? You decide!
+  - Khavalon has PVP enabled in
+  - the wild. Asthonia is always
+  - PVE. Both servers are the
+  - same in every other way!
+  - '&m    -&8&m[  &r'
+  position:
+    world: world
+    x: 0.4498248143478509
+    y: 66.61150041807863
+    z: 3.844071627769946
