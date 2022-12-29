@@ -129,22 +129,30 @@ Help:
    SignUsage: '&b%COMMAND% &e%SHORTCUT% &0: &f%DESCRIPTION%'
    DisplayValue: '%TITLE%: &b%VALUE%'
 ParkourTool: 
-   LastCheckpoint: '&7SHIFT + &6Right click to go back to last checkpoint'
-   HideAll: '&7SHIFT + &6Right click to toggle visibility'
-   HideAllEnabled: '&7SHIFT + &6Right click to toggle visibility'
-   Leave: '&7SHIFT + &6Right click to leave course'
-   Restart: '&7SHIFT + &6Right click to restart course'
+   LastCheckpoint: 
+      Info: '&7SHIFT + &6Right click to go back to last checkpoint'
+   HideAll: 
+      Info: '&7SHIFT + &6Right click to toggle visibility'
+   HideAllEnabled: 
+      Info: '&7SHIFT + &6Right click to toggle visibility'
+   Leave: 
+      Info: '&7SHIFT + &6Right click to leave course'
+   Restart: 
+      Info: '&7SHIFT + &6Right click to restart course'
    RestartConfirmation: Please use the Restart Tool again to confirm.
-   Freedom: '&6Freedom Tool'
-   Rockets: '&6Rocket Launcher'
+   Freedom: 
+      Info: '&6Freedom Tool'
+   Rockets: 
+      Info: '&6Right click to launch rocket'
+      Cooldown: '&b%VALUE% &fseconds remaining to reload rocket.'
 Other: 
    Kit: '&b%VALUE% &fParkourKit received!'
    PropertySet: The &3%PROPERTY% &ffor &3%COURSE% &fwas set to &b%VALUE%&f!
 Lobby: 
    Created: '&b%VALUE% &flobby created.'
    RequiredLevelSet: You have set the required ParkourLevel to &b%VALUE%&f.
-   Joined: ''
-   JoinedOther: ''
+   Joined: ""
+   JoinedOther: ""
 Scoreboard: 
    MainHeading: '&b&l== Parkour =='
    TitleFormat: '&b%VALUE%'
@@ -194,6 +202,7 @@ PlaceholderAPI:
    CourseActive: Active
    CourseInactive: Inactive
    CheckpointHologram: Checkpoint &b%VALUE%
+   NoPrizeCooldown: Prize Available
 GUI: 
    JoinCourses: 
       Heading: Parkour Courses
@@ -204,6 +213,7 @@ GUI:
          Line1: '         '
          Line2: ' GGGGGGG '
          Line3: '  12 34  '
+      Completed: 'Completed: &b%VALUE%'
    CourseSettings: 
       Heading: '%VALUE% Settings'
       Setup: 

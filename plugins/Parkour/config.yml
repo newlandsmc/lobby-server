@@ -92,6 +92,7 @@ ParkourTool:
   Rockets:
     Material: FIREWORK_ROCKET
     Slot: 3
+    SecondCooldown: 1
 ParkourChallenge:
   HidePlayers: true
   CountdownFrom: 5
@@ -109,6 +110,9 @@ AutoStart:
   Material: GOLD_BLOCK
   TickDelay: 0
   IncludeWorldName: false
+  RestartWhenOnCourse:
+    Enabled: true
+    Teleport: false
 Scoreboard:
   Enabled: false
   CourseName:
@@ -191,6 +195,7 @@ Other:
     CommandUsePermissions: false
     MaximumParkourLevel: 99999999
     ResetPotionEffects: true
+    OpsBypassGameModeSet: false
   Display:
     JoinWelcomeMessage: false
     LevelReward: false
@@ -202,6 +207,7 @@ Other:
     StandardFormat: HH:mm:ss
     DetailedFormat: HH:mm:ss:SSS
     TimeZone: GMT
+    PlaceholderFormat: HH:mm:ss:SSS
   OnServerShutdown:
     BackupFiles: false
   OnPlayerBan:
@@ -217,6 +223,7 @@ Plugin:
     Enabled: false
   Vault:
     Enabled: true
+    RegisterParkoins: false
   PlaceholderAPI:
     Enabled: true
     CacheTime: 15
@@ -230,7 +237,7 @@ MySQL:
   Username: Username
   Password: Password
   LegacyDriver: false
-Version: 7.0.3
+Version: 7.1.0
 LobbySettings:
   EnforceWorld: false
 OnServerRestart:
@@ -252,6 +259,7 @@ CourseDefault:
     Material: DIAMOND
     Amount: 1
     XP: 0
+    Label: ''
   Commands:
     CombinePerCourseCommands: true
   Command:
@@ -274,6 +282,8 @@ CourseDefault:
     PlayerCourseRecord:
     - ''
     GlobalCourseRecord:
+    - ''
+    Restart:
     - ''
 ParkourKit:
   ReplaceInventory: true
