@@ -16,10 +16,10 @@
 #        X:
 #        Y:
 
-khavalonportal:
+survivalportal:
   world: world
   triggerblock: AIR
-  bungee: khavalon
+  bungee: survival
   pos1:
     X: -6
     Y: 70
@@ -28,10 +28,10 @@ khavalonportal:
     X: -10
     Y: 65
     Z: -2
-asthoniaportal:
+creativeportal:
   world: world
   triggerblock: AIR
-  bungee: asthonia
+  bungee: creative
   pos1:
     X: 10
     Y: 70

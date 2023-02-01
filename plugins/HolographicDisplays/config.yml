@@ -21,8 +21,8 @@ bungee:
       offline: '&cOffline'
     motd-remove-leading-trailing-spaces: true
     servers:
-    - 'asthonia: 127.0.0.1:25567'
-    - 'khavalon: 127.0.0.1:25566'
+    - 'survival: 127.0.0.1:25567'
+    - 'creative: 127.0.0.1:25569'
 time:
   format: H:mm
   zone: GMT+1
