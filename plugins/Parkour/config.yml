@@ -14,20 +14,20 @@ OnCourse:
   AdminPlaceBreakBlocks: true
   AttemptLessChecks: false
   CheckpointMaterial: LIGHT_WEIGHTED_PRESSURE_PLATE
-  DisableItemDrop: false
-  DisableItemPickup: false
-  DisablePlayerDamage: false
-  DisableFallDamage: false
+  DisableItemDrop: true
+  DisableItemPickup: true
+  DisablePlayerDamage: true
+  DisableFallDamage: true
   DisableFly: false
   DisplayLiveTime: false
   EnforceParkourSigns: true
   EnforceWorld:
     Enabled: true
     LeaveCourse: false
-  PreventPlateStick: false
-  PreventOpeningOtherInventories: false
-  PreventAttackingEntities: false
-  PreventEntitiesAttacking: false
+  PreventPlateStick: true
+  PreventOpeningOtherInventories: true
+  PreventAttackingEntities: true
+  PreventEntitiesAttacking: true
   PreventJoiningDifferentCourse: false
   PreventPlayerCollisions: true
   SneakToInteractItems: false
@@ -42,8 +42,8 @@ OnCourse:
     Enabled: true
     AlertPlayer: true
 OnFinish:
-  BroadcastLevel: NONE
-  DisplayNewRecords: false
+  BroadcastLevel: GLOBAL
+  DisplayNewRecords: true
   DisplayStats: true
   EnablePrizes: false
   EnforceCompletion: true
@@ -64,26 +64,26 @@ OnDie:
   ResetProgressWithNoCheckpoint: false
   SetXPBarToDeathCount: false
 OnLeaveServer:
-  LeaveCourse: false
+  LeaveCourse: true
   TeleportToLastCheckpoint: false
 ParkourTool:
   LastCheckpoint:
     Material: ARROW
-    Slot: 0
+    Slot: 4
   HideAll:
     Material: BONE
-    Slot: 1
+    Slot: 0
     Global: true
     ActivateOnJoin: false
   HideAllEnabled:
     Material: BONE
-    Slot: 2
+    Slot: 0
   Leave:
     Material: OAK_SAPLING
     Slot: 8
   Restart:
     Material: STICK
-    Slot: 2
+    Slot: 7
     SecondCooldown: 1
   Freedom:
     Material: REDSTONE_TORCH
@@ -91,10 +91,10 @@ ParkourTool:
     SecondCooldown: 1
   Rockets:
     Material: FIREWORK_ROCKET
-    Slot: 3
+    Slot: 5
     SecondCooldown: 1
 ParkourChallenge:
-  HidePlayers: true
+  HidePlayers: false
   CountdownFrom: 5
   PrepareOnAccept: false
 ParkourModes:

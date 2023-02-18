@@ -11,7 +11,7 @@ Parkour:
    JoinLivesAndTime: '&7You have &3%MAXTIME% &7and &3%LIVES% &7lives to finish this course!'
    TimerStarted: Timer started!
    Restarting: Restarting course
-   Leave: You left &b%VALUE% &fparkour
+   Leave: Left &b%VALUE% &fparkour
    Created: '&b%VALUE% &fhas been created and selected!'
    CheckpointCreated: Checkpoint &3%CHECKPOINT% &fhas been set on &b%COURSE%&f!
    WhenReady: '&7Once you have finished editing &b%VALUE%&7, enter &b/pa ready'
@@ -130,21 +130,21 @@ Help:
    DisplayValue: '%TITLE%: &b%VALUE%'
 ParkourTool: 
    LastCheckpoint: 
-      Info: '&7SHIFT + &6Right click to go back to last checkpoint'
+      Info: '&7Right click to go back to last checkpoint'
    HideAll: 
-      Info: '&7SHIFT + &6Right click to toggle visibility'
+      Info: '&7Right click to disable player visibility'
    HideAllEnabled: 
-      Info: '&7SHIFT + &6Right click to toggle visibility'
+      Info: '&7Right click to enable player visibility'
    Leave: 
-      Info: '&7SHIFT + &6Right click to leave course'
+      Info: '&7Right click to leave course'
    Restart: 
-      Info: '&7SHIFT + &6Right click to restart course'
+      Info: '&7Right click to restart course'
    RestartConfirmation: Please use the Restart Tool again to confirm.
    Freedom: 
-      Info: '&6Freedom Tool'
+      Info: '&7Freedom Tool'
    Rockets: 
-      Info: '&6Right click to launch rocket'
-      Cooldown: '&b%VALUE% &fseconds remaining to reload rocket.'
+      Info: '&7Right click to launch rocket'
+      Cooldown: '&c%VALUE% &cseconds remaining to reload rocket.'
 Other: 
    Kit: '&b%VALUE% &fParkourKit received!'
    PropertySet: The &3%PROPERTY% &ffor &3%COURSE% &fwas set to &b%VALUE%&f!

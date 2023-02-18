@@ -2222,3 +2222,139 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ cavemannsmolpp was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -34.83382757868008
+ - Y: 78.03678626005764
+ - Z: 50.28785981475307
+
+Information:
+ - UUID: 0d5ab868-ad52-42f1-967f-e610217ae608
+ - Keep Alive Ping: 0
+ - Transaction Ping: 121
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 10.45 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 103
+ - Since Riptide Ticks: 282
+ - Flying Delay: 51
+ - Since Velocity Ticks: 209
+ - Since Firework Ticks: 282
+ - Ticks Existed: 109
+ - Since Vehicle Ticks: 182
+ - Since Liquid Ticks: 182
+ - Joined: 6 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ cavemannsmolpp was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -33.89628759687768
+ - Y: 79.03209252923212
+ - Z: 16.404050514632424
+
+Information:
+ - UUID: 0d5ab868-ad52-42f1-967f-e610217ae608
+ - Keep Alive Ping: 0
+ - Transaction Ping: 109
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 10.2 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 6
+
+Misc Information:
+ - Since Teleport Ticks: 99
+ - Since Riptide Ticks: 295
+ - Flying Delay: 48
+ - Since Velocity Ticks: 204
+ - Since Firework Ticks: 295
+ - Ticks Existed: 104
+ - Since Vehicle Ticks: 195
+ - Since Liquid Ticks: 15
+ - Joined: 5 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 1] (Spoofed abilities packets.)
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ lilCheese_ was punished for Fast Place (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -6.576005102204665
+ - Y: 64.5
+ - Z: 1.145824940979047
+
+Information:
+ - UUID: 2866046b-527d-44fd-8f05-0074ff827aad
+ - Keep Alive Ping: 0
+ - Transaction Ping: 136
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 9.3 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 81
+ - Since Riptide Ticks: 278
+ - Flying Delay: 46
+ - Since Velocity Ticks: 186
+ - Since Firework Ticks: 278
+ - Ticks Existed: 86
+ - Since Vehicle Ticks: 178
+ - Since Liquid Ticks: 178
+ - Joined: 5 seconds ago
+
+All Violations:
+ - Fast Place (Type B) [VL: 5] (Sending too many BlockPlace packets.)
+
+Blocks Nearby: [STONE, AIR, AIR, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, STONE, MOSSY_COBBLESTONE, AIR, STONE_BRICK_SLAB, MOSSY_COBBLESTONE_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftItemFrame{item=ItemStack{ARROW x 1}, rotation=COUNTER_CLOCKWISE}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

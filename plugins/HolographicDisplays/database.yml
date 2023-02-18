@@ -24,17 +24,18 @@ creative:
     z: 7.3884626381718155
 parkourlb:
   lines:
-  - '&3&lParkour Leaderboard'
-  - '1. {papi: parkour_leaderboard_lobby_1_player} --- {papi: parkour_leaderboard_lobby_1_time}'
-  - '2. {papi: parkour_leaderboard_lobby_2_player} --- {papi: parkour_leaderboard_lobby_2_time}'
-  - '3. {papi: parkour_leaderboard_lobby_3_player} --- {papi: parkour_leaderboard_lobby_3_time}'
-  - '4. {papi: parkour_leaderboard_lobby_4_player} --- {papi: parkour_leaderboard_lobby_4_time}'
-  - '5. {papi: parkour_leaderboard_lobby_5_player} --- {papi: parkour_leaderboard_lobby_5_time}'
-  - '6. {papi: parkour_leaderboard_lobby_6_player} --- {papi: parkour_leaderboard_lobby_6_time}'
-  - '7. {papi: parkour_leaderboard_lobby_7_player} --- {papi: parkour_leaderboard_lobby_7_time}'
-  - '8. {papi: parkour_leaderboard_lobby_8_player} --- {papi: parkour_leaderboard_lobby_8_time}'
-  - '9. {papi: parkour_leaderboard_lobby_9_player} --- {papi: parkour_leaderboard_lobby_9_time}'
-  - '10. {papi: parkour_leaderboard_lobby_10_player} --- {papi: parkour_leaderboard_lobby_10_time}'
+  - '&e&lParkour Leaderboard'
+  - '&f&m                                &r'
+  - '&#ffd700★★★ {papi: parkour_leaderboard_lobby_1_player} &f:  &#ffd700{papi: parkour_leaderboard_lobby_1_time}'
+  - '&#dedede★★ {papi: parkour_leaderboard_lobby_2_player} &f:  &#dedede{papi: parkour_leaderboard_lobby_2_time}'
+  - '&#ab6928★ {papi: parkour_leaderboard_lobby_3_player} &f:  &#ab6928{papi: parkour_leaderboard_lobby_3_time}'
+  - '{papi: parkour_leaderboard_lobby_4_player} &f:  {papi: parkour_leaderboard_lobby_4_time}'
+  - '{papi: parkour_leaderboard_lobby_5_player} &f:  {papi: parkour_leaderboard_lobby_5_time}'
+  - '{papi: parkour_leaderboard_lobby_6_player} &f:  {papi: parkour_leaderboard_lobby_6_time}'
+  - '{papi: parkour_leaderboard_lobby_7_player} &f:  {papi: parkour_leaderboard_lobby_7_time}'
+  - '{papi: parkour_leaderboard_lobby_8_player} &f:  {papi: parkour_leaderboard_lobby_8_time}'
+  - '{papi: parkour_leaderboard_lobby_9_player} &f:  {papi: parkour_leaderboard_lobby_9_time}'
+  - '{papi: parkour_leaderboard_lobby_10_player} &f:  {papi: parkour_leaderboard_lobby_10_time}'
   position:
     world: world
     x: -40.474756137104485

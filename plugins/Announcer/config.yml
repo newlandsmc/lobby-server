@@ -5,25 +5,25 @@ interval: 5
 interval-time-unit: 'MINUTES'
 random-message-order: true
 gradient:
-  color-1: 'white'
-  color-2: 'gray'
-  color-3: 'white'
-  speed: 0.05
+  color-1: '#ffaa00'
+  color-2: '#ff5555'
+  color-3: '#ffaa00'
+  speed: 0.07
 returning-player:
   title-settings:
     enabled: true
     duration-seconds: 3
     fade-in: 1000
     fade-out: 1000
-    title: 'Welcome'
-    subtitle: '<gray>SemiVanilla MC</gray>'
+    title: '<animate>SemiVanilla</animate>'
+    subtitle: 'Welcome back!'
     bedrock:
       enable: true
       duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: 'Welcome'
-      subtitle: '<gray>SemiVanilla MC</gray>'
+      title: '<animate>SemiVanilla</animate>'
+      subtitle: 'Welcome back!'
   join-sounds:
     enabled: false
     name: 'music.menu'
@@ -36,15 +36,15 @@ new-player:
     duration-seconds: 3
     fade-in: 1000
     fade-out: 1000
-    title: 'Welcome'
-    subtitle: '<gray>SemiVanilla MC</gray>'
+    title: '<animate>SemiVanilla</animate>'
+    subtitle: 'Welcome!'
     bedrock:
       enable: true
       duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: 'Welcome'
-      subtitle: '<gray>SemiVanilla MC</gray>'
+      title: '<animate>SemiVanilla</animate>'
+      subtitle: 'Welcome!'
   join-sounds:
     enabled: false
     name: 'music.menu'
