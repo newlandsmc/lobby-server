@@ -159,7 +159,7 @@ commands:
   tab-complete: 3
   send-namespaced: false
 messages:
-  whitelist: The server is under maintenance, check Discord!\nsemivanilla.com/discord
+  whitelist: The server is under maintenance, check Discord!\nnewlandsmc.com/discord
   unknown-command: '&cUnknown or incomplete command, see below for error <--&o[HERE]'
   server-full: Server full!
   outdated-client: Outdated client! Please use {0}

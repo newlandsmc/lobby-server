@@ -2358,3 +2358,142 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ bacongrubber was punished for Step (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -6.300000011920929
+ - Y: 70.0
+ - Z: 56.78078705495946
+
+Information:
+ - UUID: 8653b5db-09de-461f-bd69-8235dc9d385d
+ - Keep Alive Ping: 54
+ - Transaction Ping: 61
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 764.6 seconds ago
+
+Total Violations: 20
+ - Combat Violations: 0
+ - Movement Violations: 20
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1058
+ - Since Riptide Ticks: 13303
+ - Flying Delay: 46
+ - Since Velocity Ticks: 15292
+ - Since Firework Ticks: 13303
+ - Ticks Existed: 15192
+ - Since Vehicle Ticks: 13203
+ - Since Liquid Ticks: 12732
+ - Joined: 761 seconds ago
+
+All Violations:
+ - Fast Climb (Type A) [VL: 1] (Climbing too quickly)
+ - Speed (Type C) [VL: 3] (Moving too quickly in the air.)
+ - Step (Type A) [VL: 5] (Invalid Step height.)
+ - Sprint (Type A) [VL: 6] (Invalid sprint direction.)
+ - Strafe (Type B) [VL: 5] (Moving incorrectly on the ground.)
+
+Blocks Nearby: [WHEAT, WHEAT, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_TRAPDOOR, AIR, SPRUCE_TRAPDOOR, AIR, AIR, AIR, SPRUCE_BUTTON, AIR, SPRUCE_BUTTON, OAK_STAIRS, LANTERN, OAK_STAIRS, COBBLESTONE, SPRUCE_DOOR, STONE, STONE, SPRUCE_DOOR, STONE, COBBLESTONE, COBBLESTONE_STAIRS, COBBLESTONE, COBBLESTONE, STONE, COBBLESTONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ bacongrubber was punished for Strafe (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -0.9505428179285664
+ - Y: 69.0
+ - Z: 44.066511833654374
+
+Information:
+ - UUID: 8653b5db-09de-461f-bd69-8235dc9d385d
+ - Keep Alive Ping: 23
+ - Transaction Ping: 65
+ - Server TPS: 20
+ - Sensitivity: -32
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 41.6 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 729
+ - Since Riptide Ticks: 814
+ - Flying Delay: 48
+ - Since Velocity Ticks: 832
+ - Since Firework Ticks: 814
+ - Ticks Existed: 732
+ - Since Vehicle Ticks: 714
+ - Since Liquid Ticks: 714
+ - Joined: 37 seconds ago
+
+All Violations:
+ - Strafe (Type B) [VL: 15] (Moving incorrectly on the ground.)
+
+Blocks Nearby: [DIRT_PATH, GRASS_BLOCK, DIRT_PATH, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=sudokou}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ bacongrubber was punished for Strafe (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -3.0125156628262273
+ - Y: 63.0
+ - Z: 20.426233393103395
+
+Information:
+ - UUID: 8653b5db-09de-461f-bd69-8235dc9d385d
+ - Keep Alive Ping: 14
+ - Transaction Ping: 59
+ - Server TPS: 20
+ - Sensitivity: -11
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 21.6 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 330
+ - Since Riptide Ticks: 509
+ - Flying Delay: 45
+ - Since Velocity Ticks: 432
+ - Since Firework Ticks: 509
+ - Ticks Existed: 332
+ - Since Vehicle Ticks: 409
+ - Since Liquid Ticks: 409
+ - Joined: 17 seconds ago
+
+All Violations:
+ - Strafe (Type B) [VL: 15] (Moving incorrectly on the ground.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, DANDELION, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, GRASS_BLOCK, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
