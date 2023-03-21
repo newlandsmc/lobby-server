@@ -1,9 +1,12 @@
+spawn:
+  enabled: false
+  message: "<red>There is no spawn on this server! Looking for the lobby? Do /server lobby."
 unstuck:
   enabled: true
   message: ""
 crates:
   enabled: true
-  message: "<red>This command must be ran on Khavalon or Asthonia!"
+  message: "<red>This command can only be used in the Survival world!"
 spoils:
   enabled: true
-  message: "<red>This command must be ran on Khavalon or Asthonia!"
+  message: "<red>This command can only be used in the Survival world!"

@@ -1,14 +1,16 @@
 # The amount of time used for the interval
-interval: 5
+interval: 30
 # The unit of time used for the interval
 #  Can be SECONDS, MINUTES, or HOURS
 interval-time-unit: 'MINUTES'
 random-message-order: true
 gradient:
   color-1: '#55ff55'
-  color-2: '#00927f'
+  color-2: '#008876'
   color-3: '#55ff55'
   speed: 0.07
+bungee:
+  enable: true
 returning-player:
   title-settings:
     enabled: true
@@ -22,7 +24,7 @@ returning-player:
       duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: '<animate>New Lands</animate>'
+      title: '<gradient:#55ff55:#008876>New Lands</gradient>'
       subtitle: 'Survival'
   join-sounds:
     enabled: false
@@ -43,7 +45,7 @@ new-player:
       duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: '<animate>New Lands</animate>'
+      title: '<gradient:#55ff55:#008876>New Lands</gradient>'
       subtitle: 'Survival'
   join-sounds:
     enabled: false

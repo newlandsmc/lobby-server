@@ -245,7 +245,7 @@ OnServerRestart:
 CourseDefault:
   Settings:
     HasFallDamage: true
-    MaxFallTicks: 80
+    MaxFallTicks: 25
     DieInLiquid: false
     DieInVoid: false
     RewardOnce: false
