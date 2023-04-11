@@ -43,3 +43,94 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ 720x4 was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 22.4644562070884
+ - Y: 67.24918707874468
+ - Z: 19.82371487346731
+
+Information:
+ - UUID: 0715c4a0-f58e-4339-b6f2-7deb2fed53ce
+ - Keep Alive Ping: 64
+ - Transaction Ping: 134
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 14.95 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 197
+ - Since Riptide Ticks: 394
+ - Flying Delay: 55
+ - Since Velocity Ticks: 299
+ - Since Firework Ticks: 394
+ - Ticks Existed: 199
+ - Since Vehicle Ticks: 294
+ - Since Liquid Ticks: 294
+ - Joined: 36 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ xxov was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -2.5213256370556767
+ - Y: 72.50419350274511
+ - Z: 46.59223558188254
+
+Information:
+ - UUID: 35516816-af65-4c7f-ab1d-0049f49b3948
+ - Keep Alive Ping: 17
+ - Transaction Ping: 76
+ - Server TPS: 20
+ - Sensitivity: 60
+ - Gamemode: SURVIVAL
+ - Client Brand: MADE YOU MAD
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 19.95 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 4
+
+Misc Information:
+ - Since Teleport Ticks: 399
+ - Since Riptide Ticks: 495
+ - Flying Delay: 52
+ - Since Velocity Ticks: 399
+ - Since Firework Ticks: 495
+ - Ticks Existed: 299
+ - Since Vehicle Ticks: 395
+ - Since Liquid Ticks: 395
+ - Joined: 26 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+ - Ground Spoof (Type B) [VL: 1] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

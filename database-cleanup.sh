@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rconHost='localhost'
+rconHost='69.129.212.211'
 rconPort='25578'
 rconPass='DWkEt6KmeSFzHQbRCwRGV3Lq6WD4HZmw'
 

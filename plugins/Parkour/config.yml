@@ -39,8 +39,11 @@ OnCourse:
     - login
   PreventFireDamage: true
   SequentialCheckpoints:
+    Enabled: false
+    AlertPlayer: false
+  ParkourKit:
     Enabled: true
-    AlertPlayer: true
+    IncludeVehicles: false
 OnFinish:
   BroadcastLevel: GLOBAL
   DisplayNewRecords: true
@@ -53,10 +56,12 @@ OnFinish:
   TeleportToJoinLocation: false
   UpdatePlayerDatabaseTime: true
   TeleportBeforePrize: false
+  GiveGainedItemsBack: false
 OnLeave:
   TeleportToLinkedLobby: false
   DestroyCourseProgress: true
   TeleportAway: true
+  GiveGainedItemsBack: false
 OnRestart:
   FullPlayerRestart: false
   RequireConfirmation: false
@@ -93,6 +98,7 @@ ParkourTool:
     Material: FIREWORK_ROCKET
     Slot: 5
     SecondCooldown: 1
+  RemoveRightClickRestriction: false
 ParkourChallenge:
   HidePlayers: false
   CountdownFrom: 5
@@ -203,6 +209,7 @@ Other:
     OnlyReadyCourses: false
     CompletedCourseJoinMessage: false
     IncludeDeprecatedCommands: false
+    CurrencyName: true
   Time:
     StandardFormat: HH:mm:ss
     DetailedFormat: HH:mm:ss:SSS
@@ -237,7 +244,7 @@ MySQL:
   Username: Username
   Password: Password
   LegacyDriver: false
-Version: 7.1.0
+Version: 7.2.0
 LobbySettings:
   EnforceWorld: false
 OnServerRestart:

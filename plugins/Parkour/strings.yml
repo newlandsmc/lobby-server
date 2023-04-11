@@ -98,8 +98,8 @@ Error:
    UnknownWorld: The requested world doesn't exist.
    UnknownParkourKit: Unknown ParkourKit.
    UnknownCheckpoint: Unknown or invalid Checkpoint.
-   Cheating1: Please do not cheat.
-   Cheating2: '&lYou must achieve all &4&l%VALUE% &f&lcheckpoints!'
+   Cheating1: ''
+   Cheating2: '&cYou must achieve all %VALUE% &ccheckpoints!'
    Cooldown: Slow down! Please wait &b%VALUE% &fmore seconds.
    PrizeCooldown: You have to wait &b%VALUE% &fbefore you can receive this prize again!
    NoQuestion: You have not been asked a question!
