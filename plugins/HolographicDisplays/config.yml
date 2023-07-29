@@ -22,6 +22,7 @@ bungee:
     motd-remove-leading-trailing-spaces: true
     servers:
     - 'survival: 127.0.0.1:25567'
+    - 'survival1201: 127.0.0.1:25571'
     - 'creative: 127.0.0.1:25569'
 time:
   format: H:mm
@@ -33,3 +34,4 @@ placeholders:
   PlaceholderAPI:
     enabled: true
     default-refresh-interval-ticks: 200
+    expand-short-format: true

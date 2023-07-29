@@ -963,3 +963,280 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ painsaga was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -0.0376622493352224
+ - Y: 62.30804453836289
+ - Z: 1.9673483866277617
+
+Information:
+ - UUID: 36e3224c-610a-409b-a8cc-753d84dc1549
+ - Keep Alive Ping: 189
+ - Transaction Ping: 412
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 49.65 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 47
+ - Since Riptide Ticks: 1002
+ - Flying Delay: 53
+ - Since Velocity Ticks: 993
+ - Since Firework Ticks: 1002
+ - Ticks Existed: 893
+ - Since Vehicle Ticks: 902
+ - Since Liquid Ticks: 902
+ - Queued Transactions: 1
+ - Joined: 60 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [STONE, AIR, AIR, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Jordi22 was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -14.583268894249043
+ - Y: 90.30095797075663
+ - Z: 26.539661031065787
+
+Information:
+ - UUID: 411c9516-bff9-429b-8bb0-a1c2559851c4
+ - Keep Alive Ping: 82
+ - Transaction Ping: 144
+ - Server TPS: 20
+ - Sensitivity: 76
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 56.05 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1018
+ - Since Riptide Ticks: 1190
+ - Flying Delay: 45
+ - Since Velocity Ticks: 1121
+ - Since Firework Ticks: 1190
+ - Ticks Existed: 1021
+ - Since Vehicle Ticks: 1090
+ - Since Liquid Ticks: 825
+ - Queued Transactions: 1
+ - Joined: 58 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Jordi22 was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 12.5567862166454
+ - Y: 82.80595787341905
+ - Z: -0.11571679226903053
+
+Information:
+ - UUID: 411c9516-bff9-429b-8bb0-a1c2559851c4
+ - Keep Alive Ping: 0
+ - Transaction Ping: 143
+ - Server TPS: 20
+ - Sensitivity: 76
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 11.65 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 130
+ - Since Riptide Ticks: 321
+ - Flying Delay: 36
+ - Since Velocity Ticks: 233
+ - Since Firework Ticks: 321
+ - Ticks Existed: 133
+ - Since Vehicle Ticks: 221
+ - Since Liquid Ticks: 221
+ - Queued Transactions: 0
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Jordi22 was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -2.335570343617428
+ - Y: 100.37999883294106
+ - Z: 11.529334933573692
+
+Information:
+ - UUID: 411c9516-bff9-429b-8bb0-a1c2559851c4
+ - Keep Alive Ping: 0
+ - Transaction Ping: 145
+ - Server TPS: 20
+ - Sensitivity: 75
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 10.15 seconds ago
+
+Total Violations: 16
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 96
+ - Since Riptide Ticks: 301
+ - Flying Delay: 15
+ - Since Velocity Ticks: 203
+ - Since Firework Ticks: 301
+ - Ticks Existed: 103
+ - Since Vehicle Ticks: 201
+ - Since Liquid Ticks: 201
+ - Queued Transactions: 0
+ - Joined: 6 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+ - Bad Packets (Type G) [VL: 1] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Jordi22 was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -58.20442819032343
+ - Y: 86.0
+ - Z: 10.466226141009164
+
+Information:
+ - UUID: 411c9516-bff9-429b-8bb0-a1c2559851c4
+ - Keep Alive Ping: 135
+ - Transaction Ping: 161
+ - Server TPS: 20
+ - Sensitivity: 76
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 65.2 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1197
+ - Since Riptide Ticks: 1028
+ - Flying Delay: 28
+ - Since Velocity Ticks: 1304
+ - Since Firework Ticks: 1028
+ - Ticks Existed: 1204
+ - Since Vehicle Ticks: 928
+ - Since Liquid Ticks: 674
+ - Queued Transactions: 1
+ - Joined: 143 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ DMNS04 was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -6.433775782762261
+ - Y: 68.1025185263435
+ - Z: -0.043214487967348
+
+Information:
+ - UUID: 76c129ab-34c1-4d9d-9420-30e6faf5585d
+ - Keep Alive Ping: 45
+ - Transaction Ping: 198
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: UNRESOLVED
+ - Last Damage: 11.15 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 118
+ - Since Riptide Ticks: 306
+ - Flying Delay: 39
+ - Since Velocity Ticks: 223
+ - Since Firework Ticks: 306
+ - Ticks Existed: 123
+ - Since Vehicle Ticks: 206
+ - Since Liquid Ticks: 206
+ - Queued Transactions: 1
+ - Joined: 22 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OBSIDIAN, LANTERN, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OBSIDIAN, STONE_BRICK_SLAB, AIR, OBSIDIAN, ANDESITE_WALL, AIR, OBSIDIAN, STONE_BRICK_WALL, AIR, OBSIDIAN, STONE_STAIRS, AIR, STONE_BRICK_STAIRS, STONE_BRICK_SLAB, AIR]
+Entities Nearby: [CraftItemFrame{item=ItemStack{DIAMOND_SWORD x 1}, rotation=COUNTER_CLOCKWISE}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

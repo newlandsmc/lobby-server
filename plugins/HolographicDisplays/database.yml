@@ -4,9 +4,9 @@
 
 survival:
   lines:
-  - '{motd: survival}'
-  - '{motd2: survival}'
-  - 'Players: {online: survival}'
+  - '{motd: survival1201}'
+  - '{motd2: survival1201}'
+  - 'Players: {online: survival1201}'
   position:
     world: world
     x: -4.142725820562755

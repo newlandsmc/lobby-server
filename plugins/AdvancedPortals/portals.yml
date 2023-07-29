@@ -19,7 +19,7 @@
 survivalportal:
   world: world
   triggerblock: AIR
-  bungee: survival
+  bungee: survival1201
   pos1:
     X: -6
     Y: 70

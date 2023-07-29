@@ -63,6 +63,7 @@ Parkour:
       Loser: '&b%PLAYER% &fhas completed &b%COURSE% &fbefore you!'
       InviteReceivedWager: The wager is set to &b%VALUE%&f!
       WinnerWager: You have been rewarded &b%VALUE% &ffor winning the wager!
+      LoserWager: You have had &b%VALUE% &fdeducted from your balance!
    Die3: You died! Going back to your checkpoint.
 Event: 
    Join: This server uses &bParkour &3%VALUE%
@@ -98,7 +99,7 @@ Error:
    UnknownWorld: The requested world doesn't exist.
    UnknownParkourKit: Unknown ParkourKit.
    UnknownCheckpoint: Unknown or invalid Checkpoint.
-   Cheating1: ''
+   Cheating1: ""
    Cheating2: '&cYou must achieve all %VALUE% &ccheckpoints!'
    Cooldown: Slow down! Please wait &b%VALUE% &fmore seconds.
    PrizeCooldown: You have to wait &b%VALUE% &fbefore you can receive this prize again!
