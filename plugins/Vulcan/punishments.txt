@@ -1240,3 +1240,95 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ DaeTheDergbold was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -20.850663420001446
+ - Y: 63.9375
+ - Z: 26.442436916860572
+
+Information:
+ - UUID: 54ab1178-42c9-4d74-a335-2a33b4710770
+ - Keep Alive Ping: 112
+ - Transaction Ping: 121
+ - Server TPS: 20
+ - Sensitivity: -30
+ - Gamemode: SURVIVAL
+ - Client Brand: Quilt
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 1325.95 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 26417
+ - Since Riptide Ticks: 21468
+ - Flying Delay: 78
+ - Since Velocity Ticks: 26519
+ - Since Firework Ticks: 21468
+ - Ticks Existed: 26419
+ - Since Vehicle Ticks: 21368
+ - Since Liquid Ticks: 21368
+ - Queued Transactions: 1
+ - Joined: 1393 seconds ago
+
+All Violations:
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, DIRT_PATH, DIRT_PATH, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, DIRT, DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, AIR, DIRT_PATH, DIRT_PATH, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ NightShadowCool was punished for Bad Packets (Type W) ]--------------
+
+Location:
+ - World: world
+ - X: -0.678043134760417
+ - Y: 66.02442408821369
+ - Z: -0.8577841256474903
+
+Information:
+ - UUID: a7593b35-6cbb-4c5b-8121-f8ad32a2d68c
+ - Keep Alive Ping: 74
+ - Transaction Ping: 112
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 26.0 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 10
+
+Misc Information:
+ - Since Teleport Ticks: 417
+ - Since Riptide Ticks: 575
+ - Flying Delay: 62
+ - Since Velocity Ticks: 520
+ - Since Firework Ticks: 575
+ - Ticks Existed: 420
+ - Since Vehicle Ticks: 475
+ - Since Liquid Ticks: 475
+ - Queued Transactions: 0
+ - Joined: 64 seconds ago
+
+All Violations:
+ - Bad Packets (Type W) [VL: 10] (Post WindowClick packets.)
+
+Blocks Nearby: [GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
