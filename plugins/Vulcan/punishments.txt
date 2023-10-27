@@ -1332,3 +1332,326 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ jozf88 was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -0.9028197506472407
+ - Y: 68.0137090409879
+ - Z: 10.446919477750589
+
+Information:
+ - UUID: b4ca3ba9-147e-4eaf-8d9e-455dfbf918c0
+ - Keep Alive Ping: 27
+ - Transaction Ping: 54
+ - Server TPS: 20
+ - Sensitivity: 75
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 25.95 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 417
+ - Since Riptide Ticks: 551
+ - Flying Delay: 49
+ - Since Velocity Ticks: 519
+ - Since Firework Ticks: 551
+ - Ticks Existed: 419
+ - Since Vehicle Ticks: 451
+ - Since Liquid Ticks: 451
+ - Queued Transactions: 1
+ - Joined: 51 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AspektEffekt was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: -8.824014470530154
+ - Y: 69.0
+ - Z: 53.65917055830629
+
+Information:
+ - UUID: 021451a4-7a92-430e-a1f6-c3b181aca7bc
+ - Keep Alive Ping: 95
+ - Transaction Ping: 157
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Forge
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 33.65 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 15
+
+Misc Information:
+ - Since Teleport Ticks: 571
+ - Since Riptide Ticks: 704
+ - Flying Delay: 51
+ - Since Velocity Ticks: 673
+ - Since Firework Ticks: 704
+ - Ticks Existed: 573
+ - Since Vehicle Ticks: 604
+ - Since Liquid Ticks: 604
+ - Queued Transactions: 1
+ - Joined: 51 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 6) [VL: 51] (Invalid Block Dig packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, DANDELION, ANDESITE_WALL, ANDESITE_WALL, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, FARMLAND, FARMLAND, ANDESITE_WALL, WHEAT, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR, FARMLAND, FARMLAND, OAK_TRAPDOOR, WHEAT, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ brokesurferboy was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -52.48842386005483
+ - Y: 81.25000000000001
+ - Z: 38.372263399050034
+
+Information:
+ - UUID: 77f63416-68e4-4c34-a3d1-2531e63554b5
+ - Keep Alive Ping: 55
+ - Transaction Ping: 74
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 899.0 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 167
+ - Since Riptide Ticks: 17314
+ - Flying Delay: 52
+ - Since Velocity Ticks: 17980
+ - Since Firework Ticks: 17314
+ - Ticks Existed: 17880
+ - Since Vehicle Ticks: 17214
+ - Since Liquid Ticks: 84
+ - Queued Transactions: 0
+ - Joined: 1018 seconds ago
+
+All Violations:
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 0.5
+ - Y: 64.95757099040173
+ - Z: 5.479137308851589
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 0
+ - Transaction Ping: 178
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 9.8 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 89
+ - Since Riptide Ticks: 273
+ - Flying Delay: 47
+ - Since Velocity Ticks: 196
+ - Since Firework Ticks: 273
+ - Ticks Existed: 96
+ - Since Vehicle Ticks: 173
+ - Since Liquid Ticks: 173
+ - Queued Transactions: 1
+ - Joined: 5 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 0.1528467445310362
+ - Y: 63.0
+ - Z: 18.091606720253914
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 0
+ - Transaction Ping: 225
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 12.9 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 151
+ - Since Riptide Ticks: 225
+ - Flying Delay: 28
+ - Since Velocity Ticks: 258
+ - Since Firework Ticks: 225
+ - Ticks Existed: 158
+ - Since Vehicle Ticks: 125
+ - Since Liquid Ticks: 125
+ - Queued Transactions: 1
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, REDSTONE_LAMP, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1.0680673198551853
+ - Y: 63.0
+ - Z: 17.632581636376887
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 0
+ - Transaction Ping: 173
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 7.45 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 38
+ - Since Riptide Ticks: 221
+ - Flying Delay: 48
+ - Since Velocity Ticks: 149
+ - Since Firework Ticks: 221
+ - Ticks Existed: 49
+ - Since Vehicle Ticks: 121
+ - Since Liquid Ticks: 121
+ - Queued Transactions: 1
+ - Joined: 3 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, REDSTONE_LAMP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, OAK_STAIRS, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, DIRT_PATH, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AldizGamez was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 7.6122331182415826
+ - Y: 64.5
+ - Z: 2.902283069665176
+
+Information:
+ - UUID: 96c3aace-784f-4ff1-9854-8fb0370a283a
+ - Keep Alive Ping: 0
+ - Transaction Ping: 143
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 10.4 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 90
+ - Since Riptide Ticks: 282
+ - Flying Delay: 40
+ - Since Velocity Ticks: 208
+ - Since Firework Ticks: 282
+ - Ticks Existed: 108
+ - Since Vehicle Ticks: 182
+ - Since Liquid Ticks: 182
+ - Queued Transactions: 1
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [SPRUCE_LOG, OAK_SLAB, OAK_SLAB, SPRUCE_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STRIPPED_SPRUCE_LOG, OAK_SLAB, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STRIPPED_SPRUCE_LOG, OAK_SLAB, OAK_SLAB, OAK_SLAB, OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
