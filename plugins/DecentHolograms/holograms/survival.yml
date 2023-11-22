@@ -1,0 +1,16 @@
+location: world:-4.143:66.233:7.569
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8&m  ]&f&m-    &r &c&lSurv&4&lival &f&m    -&8&m[  &r'
+    height: 0.3
+  - content: '&7&lSurvival World'
+    height: 0.3
+  - content: 'Players: %bungee_survival1201%'
+    height: 0.3
+  actions: {}

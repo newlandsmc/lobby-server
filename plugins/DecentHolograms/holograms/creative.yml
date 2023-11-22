@@ -1,0 +1,16 @@
+location: world:5.543:66.233:7.388
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8&m  ]&f&m-    &r &b&lCrea&3&ltive &f&m    -&8&m[  &r'
+    height: 0.3
+  - content: '&7&lCreative Plot World'
+    height: 0.3
+  - content: 'Players: %bungee_creative%'
+    height: 0.3
+  actions: {}
