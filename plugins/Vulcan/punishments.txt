@@ -1655,3 +1655,286 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 0.6049710257328266
+ - Y: 63.0
+ - Z: 18.525882279361777
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 103
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.1 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 202
+ - Flying Delay: 9
+ - Since Velocity Ticks: 102
+ - Since Firework Ticks: 202
+ - Ticks Existed: 2
+ - Since Vehicle Ticks: 102
+ - Since Liquid Ticks: 102
+ - Queued Transactions: 0
+ - Joined: 1 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, REDSTONE_LAMP, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 0.6049710257328266
+ - Y: 63.0
+ - Z: 18.525882279361777
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 161
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1701225233093
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Since Liquid Ticks: 101
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, REDSTONE_LAMP, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 0.6049710257328266
+ - Y: 63.0
+ - Z: 18.525882279361777
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 78
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1701225237766
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Since Liquid Ticks: 101
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 45] (Invalid Block Dig packets.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, REDSTONE_LAMP, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 0.6049710257328266
+ - Y: 63.0
+ - Z: 18.525882279361777
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 119
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1701225248312
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Since Liquid Ticks: 101
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Blocks Nearby: [OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, REDSTONE_LAMP, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, SPRUCE_SLAB, OAK_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Smokez01 was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -4.974210942179516
+ - Y: 67.31566576249811
+ - Z: 1.3967496917080402
+
+Information:
+ - UUID: f2e25bbe-bca1-4310-a219-eaee8c9d2af0
+ - Keep Alive Ping: 0
+ - Transaction Ping: 145
+ - Server TPS: 20
+ - Sensitivity: 79
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 12.75 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 10
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 153
+ - Since Riptide Ticks: 337
+ - Flying Delay: 50
+ - Since Velocity Ticks: 255
+ - Since Firework Ticks: 337
+ - Ticks Existed: 155
+ - Since Vehicle Ticks: 237
+ - Since Liquid Ticks: 237
+ - Queued Transactions: 0
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 10] (Repeated vertical motions.)
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Itzcookieboy69 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: -1.2673519232992034
+ - Y: 63.0
+ - Z: 14.26415303769793
+
+Information:
+ - UUID: ac9bd08d-6583-4c7b-9da8-b96ba435b7e4
+ - Keep Alive Ping: 150
+ - Transaction Ping: 183
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 23.0 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 358
+ - Since Riptide Ticks: 525
+ - Flying Delay: 1000
+ - Since Velocity Ticks: 460
+ - Since Firework Ticks: 525
+ - Ticks Existed: 360
+ - Since Vehicle Ticks: 425
+ - Since Liquid Ticks: 425
+ - Queued Transactions: 1
+ - Joined: 108 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Blocks Nearby: [DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, DIRT_PATH, DIRT_PATH, STONE_PRESSURE_PLATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, DIRT_PATH, DIRT_PATH, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
